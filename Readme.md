@@ -256,3 +256,12 @@ getAssociation
 setAssociation
 addAssociation and removeAssociation:
 </p>
+
+<h3>Fetching Related Products</h3>
+
+<p>In this video we use magic association in admin side controller</p>
+
+
+<h3>One-To-Many & Many-To-Many Relations</h3>
+
+<p>In this we create new models and create tables according to the requirement besides this we define relations as well on app.js file</p>
